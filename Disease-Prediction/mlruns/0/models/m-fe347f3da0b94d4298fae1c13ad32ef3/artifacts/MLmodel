@@ -1,0 +1,23 @@
+artifact_path: /Users/srivatsavreddy/Desktop/Disease-Prediction-from-Symptoms-master/mlruns/0/models/m-fe347f3da0b94d4298fae1c13ad32ef3/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.13.9
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+mlflow_version: 3.16.0
+model_id: m-fe347f3da0b94d4298fae1c13ad32ef3
+model_size_bytes: 966423
+model_uuid: m-fe347f3da0b94d4298fae1c13ad32ef3
+prompts: null
+run_id: a2321160a72b42398b3a94d26e1b2657
+utc_time_created: '2026-09-04 11:50:16.225068'

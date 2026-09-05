@@ -1,0 +1,1215 @@
+Heberden's node:
+  drift_status: false
+  p_value: 1.0
+Murphy's sign:
+  drift_status: false
+  p_value: 0.9999991677819469
+Stahli's line:
+  drift_status: false
+  p_value: 1.0
+abdomen acute:
+  drift_status: false
+  p_value: 1.0
+abdominal bloating:
+  drift_status: false
+  p_value: 1.0
+abdominal tenderness:
+  drift_status: false
+  p_value: 0.9999999999999886
+abnormal sensation:
+  drift_status: false
+  p_value: 1.0
+abnormally hard consistency:
+  drift_status: false
+  p_value: 1.0
+abortion:
+  drift_status: false
+  p_value: 1.0
+abscess bacterial:
+  drift_status: false
+  p_value: 1.0
+absences finding:
+  drift_status: false
+  p_value: 0.9983273025914025
+achalasia:
+  drift_status: false
+  p_value: 1.0
+ache:
+  drift_status: false
+  p_value: 1.0
+adverse effect:
+  drift_status: false
+  p_value: 1.0
+adverse reaction:
+  drift_status: false
+  p_value: 1.0
+agitation:
+  drift_status: false
+  p_value: 1.0
+air fluid level:
+  drift_status: false
+  p_value: 1.0
+alcohol binge episode:
+  drift_status: false
+  p_value: 1.0
+alcoholic withdrawal symptoms:
+  drift_status: false
+  p_value: 1.0
+ambidexterity:
+  drift_status: false
+  p_value: 1.0
+angina pectoris:
+  drift_status: false
+  p_value: 1.0
+anorexia:
+  drift_status: false
+  p_value: 1.0
+anosmia:
+  drift_status: false
+  p_value: 1.0
+aphagia:
+  drift_status: false
+  p_value: 1.0
+apyrexial:
+  drift_status: false
+  p_value: 1.0
+arthralgia:
+  drift_status: false
+  p_value: 0.9999999999860965
+ascites:
+  drift_status: false
+  p_value: 1.0
+asterixis:
+  drift_status: false
+  p_value: 1.0
+asthenia:
+  drift_status: false
+  p_value: 1.0
+asymptomatic:
+  drift_status: false
+  p_value: 1.0
+ataxia:
+  drift_status: false
+  p_value: 1.0
+atypia:
+  drift_status: false
+  p_value: 1.0
+aura:
+  drift_status: false
+  p_value: 1.0
+awakening early:
+  drift_status: false
+  p_value: 1.0
+barking cough:
+  drift_status: false
+  p_value: 1.0
+bedridden:
+  drift_status: false
+  p_value: 1.0
+behavior hyperactive:
+  drift_status: false
+  p_value: 0.9999995801243332
+behavior showing increased motor activity:
+  drift_status: false
+  p_value: 1.0
+blackout:
+  drift_status: false
+  p_value: 1.0
+blanch:
+  drift_status: false
+  p_value: 1.0
+bleeding of vagina:
+  drift_status: false
+  p_value: 1.0
+bowel sounds decreased:
+  drift_status: false
+  p_value: 1.0
+bradycardia:
+  drift_status: false
+  p_value: 1.0
+bradykinesia:
+  drift_status: false
+  p_value: 1.0
+breakthrough pain:
+  drift_status: false
+  p_value: 1.0
+breath sounds decreased:
+  drift_status: false
+  p_value: 1.0
+breath-holding spell:
+  drift_status: false
+  p_value: 1.0
+breech presentation:
+  drift_status: false
+  p_value: 1.0
+bruit:
+  drift_status: false
+  p_value: 1.0
+burning sensation:
+  drift_status: false
+  p_value: 1.0
+cachexia:
+  drift_status: false
+  p_value: 1.0
+cardiomegaly:
+  drift_status: false
+  p_value: 1.0
+cardiovascular event:
+  drift_status: false
+  p_value: 1.0
+cardiovascular finding:
+  drift_status: false
+  p_value: 1.0
+catatonia:
+  drift_status: false
+  p_value: 1.0
+catching breath:
+  drift_status: false
+  p_value: 0.9999999999994491
+charleyhorse:
+  drift_status: false
+  p_value: 1.0
+chest discomfort:
+  drift_status: false
+  p_value: 1.0
+chest tightness:
+  drift_status: false
+  p_value: 1.0
+chill:
+  drift_status: false
+  p_value: 1.0
+choke:
+  drift_status: false
+  p_value: 1.0
+cicatrisation:
+  drift_status: false
+  p_value: 1.0
+clammy skin:
+  drift_status: false
+  p_value: 1.0
+claudication:
+  drift_status: false
+  p_value: 1.0
+clonus:
+  drift_status: false
+  p_value: 1.0
+clumsiness:
+  drift_status: false
+  p_value: 1.0
+colic abdominal:
+  drift_status: false
+  p_value: 1.0
+consciousness clear:
+  drift_status: false
+  p_value: 1.0
+constipation:
+  drift_status: false
+  p_value: 1.0
+coordination abnormal:
+  drift_status: false
+  p_value: 1.0
+cough:
+  drift_status: false
+  p_value: 0.9999999999424046
+cushingoid facies:
+  drift_status: false
+  p_value: 1.0
+"cushingoid\_habitus":
+  drift_status: false
+  p_value: 1.0
+cyanosis:
+  drift_status: false
+  p_value: 1.0
+cystic lesion:
+  drift_status: false
+  p_value: 1.0
+debilitation:
+  drift_status: false
+  p_value: 1.0
+decompensation:
+  drift_status: false
+  p_value: 1.0
+decreased body weight:
+  drift_status: false
+  p_value: 1.0
+decreased stool caliber:
+  drift_status: false
+  p_value: 1.0
+decreased translucency:
+  drift_status: false
+  p_value: 1.0
+diarrhea:
+  drift_status: false
+  p_value: 1.0
+difficulty:
+  drift_status: false
+  p_value: 1.0
+difficulty passing urine:
+  drift_status: false
+  p_value: 1.0
+disease:
+  drift_status: false
+  p_value: 0.22102275596357324
+disequilibrium:
+  drift_status: false
+  p_value: 0.9998813541674373
+distended abdomen:
+  drift_status: false
+  p_value: 1.0
+distress respiratory:
+  drift_status: false
+  p_value: 0.999999999786466
+disturbed family:
+  drift_status: false
+  p_value: 1.0
+dizziness:
+  drift_status: false
+  p_value: 1.0
+dizzy spells:
+  drift_status: false
+  p_value: 1.0
+drool:
+  drift_status: false
+  p_value: 1.0
+drowsiness:
+  drift_status: false
+  p_value: 1.0
+dullness:
+  drift_status: false
+  p_value: 1.0
+dysarthria:
+  drift_status: false
+  p_value: 1.0
+dysdiadochokinesia:
+  drift_status: false
+  p_value: 1.0
+dysesthesia:
+  drift_status: false
+  p_value: 0.9999999992835207
+dyspareunia:
+  drift_status: false
+  p_value: 1.0
+dyspnea:
+  drift_status: false
+  p_value: 1.0
+dyspnea on exertion:
+  drift_status: false
+  p_value: 1.0
+dysuria:
+  drift_status: false
+  p_value: 1.0
+ecchymosis:
+  drift_status: false
+  p_value: 1.0
+egophony:
+  drift_status: false
+  p_value: 1.0
+elation:
+  drift_status: false
+  p_value: 1.0
+emphysematous change:
+  drift_status: false
+  p_value: 1.0
+energy increased:
+  drift_status: false
+  p_value: 1.0
+enuresis:
+  drift_status: false
+  p_value: 1.0
+erythema:
+  drift_status: false
+  p_value: 0.9999999999970348
+estrogen use:
+  drift_status: false
+  p_value: 1.0
+excruciating pain:
+  drift_status: false
+  p_value: 1.0
+exhaustion:
+  drift_status: false
+  p_value: 0.9999949198119868
+extrapyramidal sign:
+  drift_status: false
+  p_value: 1.0
+extreme exhaustion:
+  drift_status: false
+  p_value: 1.0
+facial paresis:
+  drift_status: false
+  p_value: 1.0
+fall:
+  drift_status: false
+  p_value: 1.0
+fatigability:
+  drift_status: false
+  p_value: 1.0
+fatigue:
+  drift_status: false
+  p_value: 1.0
+fear of falling:
+  drift_status: false
+  p_value: 0.9999999992835207
+fecaluria:
+  drift_status: false
+  p_value: 1.0
+feces in rectum:
+  drift_status: false
+  p_value: 1.0
+feeling hopeless:
+  drift_status: false
+  p_value: 0.999999959950365
+feeling strange:
+  drift_status: false
+  p_value: 1.0
+feeling suicidal:
+  drift_status: false
+  p_value: 1.0
+feels hot/feverish:
+  drift_status: false
+  p_value: 0.9999999999999886
+fever:
+  drift_status: false
+  p_value: 1.0
+flare:
+  drift_status: false
+  p_value: 1.0
+flatulence:
+  drift_status: false
+  p_value: 1.0
+floppy:
+  drift_status: false
+  p_value: 1.0
+flushing:
+  drift_status: false
+  p_value: 1.0
+focal seizures:
+  drift_status: false
+  p_value: 1.0
+food intolerance:
+  drift_status: false
+  p_value: 1.0
+formication:
+  drift_status: false
+  p_value: 1.0
+frail:
+  drift_status: false
+  p_value: 0.9998303211281536
+fremitus:
+  drift_status: false
+  p_value: 0.999999959950365
+frothy sputum:
+  drift_status: false
+  p_value: 1.0
+gag:
+  drift_status: false
+  p_value: 0.5360953696437505
+gasping for breath:
+  drift_status: false
+  p_value: 1.0
+general discomfort:
+  drift_status: false
+  p_value: 1.0
+general unsteadiness:
+  drift_status: false
+  p_value: 1.0
+giddy mood:
+  drift_status: false
+  p_value: 1.0
+gravida 0:
+  drift_status: false
+  p_value: 1.0
+gravida 10:
+  drift_status: false
+  p_value: 1.0
+green sputum:
+  drift_status: false
+  p_value: 0.999999959950365
+groggy:
+  drift_status: false
+  p_value: 1.0
+guaiac positive:
+  drift_status: false
+  p_value: 0.9999999999860965
+gurgle:
+  drift_status: false
+  p_value: 1.0
+hacking cough:
+  drift_status: false
+  p_value: 1.0
+haemoptysis:
+  drift_status: false
+  p_value: 1.0
+haemorrhage:
+  drift_status: false
+  p_value: 1.0
+hallucinations auditory:
+  drift_status: false
+  p_value: 1.0
+hallucinations visual:
+  drift_status: false
+  p_value: 1.0
+has religious belief:
+  drift_status: false
+  p_value: 1.0
+headache:
+  drift_status: false
+  p_value: 1.0
+heartburn:
+  drift_status: false
+  p_value: 1.0
+heavy feeling:
+  drift_status: false
+  p_value: 1.0
+heavy legs:
+  drift_status: false
+  p_value: 1.0
+hematochezia:
+  drift_status: false
+  p_value: 1.0
+hematocrit decreased:
+  drift_status: false
+  p_value: 1.0
+hematuria:
+  drift_status: false
+  p_value: 1.0
+heme positive:
+  drift_status: false
+  p_value: 1.0
+hemianopsia homonymous:
+  drift_status: false
+  p_value: 1.0
+hemiplegia:
+  drift_status: false
+  p_value: 1.0
+hemodynamically stable:
+  drift_status: false
+  p_value: 1.0
+hepatomegaly:
+  drift_status: false
+  p_value: 1.0
+hepatosplenomegaly:
+  drift_status: false
+  p_value: 0.9999949198119868
+hirsutism:
+  drift_status: false
+  p_value: 1.0
+history of - blackout:
+  drift_status: false
+  p_value: 1.0
+hoard:
+  drift_status: false
+  p_value: 1.0
+hoarseness:
+  drift_status: false
+  p_value: 1.0
+homelessness:
+  drift_status: false
+  p_value: 1.0
+homicidal thoughts:
+  drift_status: false
+  p_value: 1.0
+hot flush:
+  drift_status: false
+  p_value: 1.0
+hunger:
+  drift_status: false
+  p_value: 1.0
+hydropneumothorax:
+  drift_status: false
+  p_value: 1.0
+hyperacusis:
+  drift_status: false
+  p_value: 1.0
+hypercapnia:
+  drift_status: false
+  p_value: 1.0
+hyperemesis:
+  drift_status: false
+  p_value: 1.0
+hyperhidrosis disorder:
+  drift_status: false
+  p_value: 1.0
+hyperkalemia:
+  drift_status: false
+  p_value: 0.9997617796579114
+hypersomnia:
+  drift_status: false
+  p_value: 1.0
+hypersomnolence:
+  drift_status: false
+  p_value: 1.0
+hypertonicity:
+  drift_status: false
+  p_value: 1.0
+hyperventilation:
+  drift_status: false
+  p_value: 1.0
+hypesthesia:
+  drift_status: false
+  p_value: 1.0
+hypoalbuminemia:
+  drift_status: false
+  p_value: 1.0
+hypocalcemia result:
+  drift_status: false
+  p_value: 1.0
+hypokalemia:
+  drift_status: false
+  p_value: 1.0
+hypokinesia:
+  drift_status: false
+  p_value: 1.0
+hypometabolism:
+  drift_status: false
+  p_value: 1.0
+hyponatremia:
+  drift_status: false
+  p_value: 1.0
+hypoproteinemia:
+  drift_status: false
+  p_value: 0.9999999999860965
+hypotension:
+  drift_status: false
+  p_value: 1.0
+hypothermia, natural:
+  drift_status: false
+  p_value: 1.0
+hypotonic:
+  drift_status: false
+  p_value: 0.9873010022131739
+hypoxemia:
+  drift_status: false
+  p_value: 1.0
+immobile:
+  drift_status: false
+  p_value: 0.999999797815411
+impaired cognition:
+  drift_status: false
+  p_value: 1.0
+inappropriate affect:
+  drift_status: false
+  p_value: 1.0
+incoherent:
+  drift_status: false
+  p_value: 1.0
+indifferent mood:
+  drift_status: false
+  p_value: 1.0
+intermenstrual heavy bleeding:
+  drift_status: false
+  p_value: 1.0
+intoxication:
+  drift_status: false
+  p_value: 0.9999999999424046
+irritable mood:
+  drift_status: false
+  p_value: 0.9399592013509737
+jugular venous distention:
+  drift_status: false
+  p_value: 1.0
+labored breathing:
+  drift_status: false
+  p_value: 0.9999999999999886
+lameness:
+  drift_status: false
+  p_value: 1.0
+large-for-dates fetus:
+  drift_status: false
+  p_value: 1.0
+"left\_atrial\_hypertrophy":
+  drift_status: false
+  p_value: 1.0
+lesion:
+  drift_status: false
+  p_value: 1.0
+lethargy:
+  drift_status: false
+  p_value: 1.0
+lightheadedness:
+  drift_status: false
+  p_value: 1.0
+lip smacking:
+  drift_status: false
+  p_value: 0.9999999999970348
+loose associations:
+  drift_status: false
+  p_value: 1.0
+low back pain:
+  drift_status: false
+  p_value: 1.0
+lung nodule:
+  drift_status: false
+  p_value: 1.0
+macerated skin:
+  drift_status: false
+  p_value: 0.9999999999970348
+macule:
+  drift_status: false
+  p_value: 1.0
+malaise:
+  drift_status: false
+  p_value: 1.0
+mass in breast:
+  drift_status: false
+  p_value: 1.0
+mass of body structure:
+  drift_status: false
+  p_value: 1.0
+mediastinal shift:
+  drift_status: false
+  p_value: 1.0
+mental status changes:
+  drift_status: false
+  p_value: 1.0
+metastatic lesion:
+  drift_status: false
+  p_value: 1.0
+milky:
+  drift_status: false
+  p_value: 1.0
+moan:
+  drift_status: false
+  p_value: 1.0
+monoclonal:
+  drift_status: false
+  p_value: 1.0
+monocytosis:
+  drift_status: false
+  p_value: 0.9994029853986668
+mood depressed:
+  drift_status: false
+  p_value: 1.0
+moody:
+  drift_status: false
+  p_value: 1.0
+motor retardation:
+  drift_status: false
+  p_value: 1.0
+muscle hypotonia:
+  drift_status: false
+  p_value: 0.999999993789031
+muscle twitch:
+  drift_status: false
+  p_value: 1.0
+myalgia:
+  drift_status: false
+  p_value: 1.0
+mydriasis:
+  drift_status: false
+  p_value: 1.0
+myoclonus:
+  drift_status: false
+  p_value: 1.0
+nasal discharge present:
+  drift_status: false
+  p_value: 1.0
+nasal flaring:
+  drift_status: false
+  p_value: 1.0
+nausea:
+  drift_status: false
+  p_value: 0.999999999786466
+nausea and vomiting:
+  drift_status: false
+  p_value: 1.0
+neck stiffness:
+  drift_status: false
+  p_value: 1.0
+neologism:
+  drift_status: false
+  p_value: 1.0
+nervousness:
+  drift_status: false
+  p_value: 1.0
+night sweat:
+  drift_status: false
+  p_value: 0.999999999786466
+nightmare:
+  drift_status: false
+  p_value: 1.0
+no known drug allergies:
+  drift_status: false
+  p_value: 0.9999770855302555
+no status change:
+  drift_status: false
+  p_value: 1.0
+noisy respiration:
+  drift_status: false
+  p_value: 1.0
+non-productive cough:
+  drift_status: false
+  p_value: 1.0
+nonsmoker:
+  drift_status: false
+  p_value: 1.0
+numbness:
+  drift_status: false
+  p_value: 1.0
+numbness of hand:
+  drift_status: false
+  p_value: 1.0
+oliguria:
+  drift_status: false
+  p_value: 1.0
+orthopnea:
+  drift_status: false
+  p_value: 1.0
+orthostasis:
+  drift_status: false
+  p_value: 1.0
+out of breath:
+  drift_status: false
+  p_value: 1.0
+overweight:
+  drift_status: false
+  p_value: 1.0
+pain:
+  drift_status: false
+  p_value: 1.0
+pain abdominal:
+  drift_status: false
+  p_value: 1.0
+pain back:
+  drift_status: false
+  p_value: 1.0
+pain chest:
+  drift_status: false
+  p_value: 1.0
+pain foot:
+  drift_status: false
+  p_value: 1.0
+pain in lower limb:
+  drift_status: false
+  p_value: 1.0
+pain neck:
+  drift_status: false
+  p_value: 1.0
+painful swallowing:
+  drift_status: false
+  p_value: 1.0
+pallor:
+  drift_status: false
+  p_value: 1.0
+palpitation:
+  drift_status: false
+  p_value: 1.0
+panic:
+  drift_status: false
+  p_value: 1.0
+pansystolic murmur:
+  drift_status: false
+  p_value: 1.0
+para 1:
+  drift_status: false
+  p_value: 1.0
+para 2:
+  drift_status: false
+  p_value: 1.0
+paralyse:
+  drift_status: false
+  p_value: 1.0
+paraparesis:
+  drift_status: false
+  p_value: 1.0
+paresis:
+  drift_status: false
+  p_value: 1.0
+paresthesia:
+  drift_status: false
+  p_value: 1.0
+passed stones:
+  drift_status: false
+  p_value: 1.0
+patient non compliance:
+  drift_status: false
+  p_value: 1.0
+pericardial friction rub:
+  drift_status: false
+  p_value: 1.0
+phonophobia:
+  drift_status: false
+  p_value: 1.0
+photophobia:
+  drift_status: false
+  p_value: 1.0
+photopsia:
+  drift_status: false
+  p_value: 1.0
+pin-point pupils:
+  drift_status: false
+  p_value: 1.0
+pleuritic pain:
+  drift_status: false
+  p_value: 1.0
+pneumatouria:
+  drift_status: false
+  p_value: 1.0
+polydypsia:
+  drift_status: false
+  p_value: 1.0
+polymyalgia:
+  drift_status: false
+  p_value: 1.0
+polyuria:
+  drift_status: false
+  p_value: 1.0
+poor dentition:
+  drift_status: false
+  p_value: 1.0
+poor feeding:
+  drift_status: false
+  p_value: 1.0
+"posterior\_rhinorrhea":
+  drift_status: false
+  p_value: 1.0
+posturing:
+  drift_status: false
+  p_value: 0.9943036915650568
+presence of q wave:
+  drift_status: false
+  p_value: 1.0
+pressure chest:
+  drift_status: false
+  p_value: 1.0
+previous pregnancies 2:
+  drift_status: false
+  p_value: 1.0
+primigravida:
+  drift_status: false
+  p_value: 1.0
+prodrome:
+  drift_status: false
+  p_value: 1.0
+productive cough:
+  drift_status: false
+  p_value: 1.0
+projectile vomiting:
+  drift_status: false
+  p_value: 1.0
+prostate tender:
+  drift_status: false
+  p_value: 1.0
+prostatism:
+  drift_status: false
+  p_value: 1.0
+proteinemia:
+  drift_status: false
+  p_value: 1.0
+pruritus:
+  drift_status: false
+  p_value: 1.0
+pulse absent:
+  drift_status: false
+  p_value: 1.0
+"pulsus\_paradoxus":
+  drift_status: false
+  p_value: 1.0
+pustule:
+  drift_status: false
+  p_value: 1.0
+qt interval prolonged:
+  drift_status: false
+  p_value: 1.0
+r wave feature:
+  drift_status: false
+  p_value: 1.0
+rale:
+  drift_status: false
+  p_value: 1.0
+rambling speech:
+  drift_status: false
+  p_value: 1.0
+rapid shallow breathing:
+  drift_status: false
+  p_value: 1.0
+red blotches:
+  drift_status: false
+  p_value: 1.0
+redness:
+  drift_status: false
+  p_value: 0.9994029853986668
+regurgitates after swallowing:
+  drift_status: false
+  p_value: 0.999999999786466
+renal angle tenderness:
+  drift_status: false
+  p_value: 1.0
+rest pain:
+  drift_status: false
+  p_value: 0.9999186655620763
+retch:
+  drift_status: false
+  p_value: 1.0
+retropulsion:
+  drift_status: false
+  p_value: 1.0
+rhd positive:
+  drift_status: false
+  p_value: 1.0
+rhonchus:
+  drift_status: false
+  p_value: 1.0
+rigor - temperature-associated observation:
+  drift_status: false
+  p_value: 1.0
+rolling of eyes:
+  drift_status: false
+  p_value: 1.0
+room spinning:
+  drift_status: false
+  p_value: 1.0
+satiety early:
+  drift_status: false
+  p_value: 1.0
+scar tissue:
+  drift_status: false
+  p_value: 1.0
+sciatica:
+  drift_status: false
+  p_value: 1.0
+"scleral\_icterus":
+  drift_status: false
+  p_value: 1.0
+scratch marks:
+  drift_status: false
+  p_value: 0.9999454163803687
+sedentary:
+  drift_status: false
+  p_value: 1.0
+seizure:
+  drift_status: false
+  p_value: 1.0
+sensory discomfort:
+  drift_status: false
+  p_value: 1.0
+shooting pain:
+  drift_status: false
+  p_value: 0.9999999978028856
+shortness of breath:
+  drift_status: false
+  p_value: 1.0
+side pain:
+  drift_status: false
+  p_value: 1.0
+sinus rhythm:
+  drift_status: false
+  p_value: 1.0
+sleeplessness:
+  drift_status: false
+  p_value: 1.0
+sleepy:
+  drift_status: false
+  p_value: 1.0
+slowing of urinary stream:
+  drift_status: false
+  p_value: 1.0
+sneeze:
+  drift_status: false
+  p_value: 1.0
+sniffle:
+  drift_status: false
+  p_value: 1.0
+snore:
+  drift_status: false
+  p_value: 1.0
+snuffle:
+  drift_status: false
+  p_value: 1.0
+soft tissue swelling:
+  drift_status: false
+  p_value: 1.0
+sore to touch:
+  drift_status: false
+  p_value: 1.0
+spasm:
+  drift_status: false
+  p_value: 1.0
+speech slurred:
+  drift_status: false
+  p_value: 1.0
+splenomegaly:
+  drift_status: false
+  p_value: 0.9999991677819469
+spontaneous rupture of membranes:
+  drift_status: false
+  p_value: 1.0
+sputum purulent:
+  drift_status: false
+  p_value: 1.0
+st segment depression:
+  drift_status: false
+  p_value: 1.0
+st segment elevation:
+  drift_status: false
+  p_value: 1.0
+stiffness:
+  drift_status: false
+  p_value: 1.0
+stinging sensation:
+  drift_status: false
+  p_value: 1.0
+stool color yellow:
+  drift_status: false
+  p_value: 1.0
+stridor:
+  drift_status: false
+  p_value: 1.0
+stuffy nose:
+  drift_status: false
+  p_value: 1.0
+stupor:
+  drift_status: false
+  p_value: 1.0
+suicidal:
+  drift_status: false
+  p_value: 1.0
+superimposition:
+  drift_status: false
+  p_value: 0.9999971146875211
+sweat:
+  drift_status: false
+  p_value: 1.0
+sweating increased:
+  drift_status: false
+  p_value: 1.0
+swelling:
+  drift_status: false
+  p_value: 0.9999995801243332
+symptom aggravating factors:
+  drift_status: false
+  p_value: 1.0
+syncope:
+  drift_status: false
+  p_value: 1.0
+systolic ejection murmur:
+  drift_status: false
+  p_value: 1.0
+systolic murmur:
+  drift_status: false
+  p_value: 1.0
+t wave inverted:
+  drift_status: false
+  p_value: 1.0
+tachypnea:
+  drift_status: false
+  p_value: 0.9999999999424046
+tenesmus:
+  drift_status: false
+  p_value: 1.0
+terrify:
+  drift_status: false
+  p_value: 1.0
+thicken:
+  drift_status: false
+  p_value: 1.0
+throat sore:
+  drift_status: false
+  p_value: 0.9999984196182485
+throbbing sensation quality:
+  drift_status: false
+  p_value: 1.0
+tinnitus:
+  drift_status: false
+  p_value: 0.999999959950365
+tired:
+  drift_status: false
+  p_value: 1.0
+titubation:
+  drift_status: false
+  p_value: 1.0
+todd paralysis:
+  drift_status: false
+  p_value: 1.0
+tonic seizures:
+  drift_status: false
+  p_value: 1.0
+transaminitis:
+  drift_status: false
+  p_value: 1.0
+transsexual:
+  drift_status: false
+  p_value: 1.0
+tremor:
+  drift_status: false
+  p_value: 1.0
+tremor resting:
+  drift_status: false
+  p_value: 1.0
+tumor cell invasion:
+  drift_status: false
+  p_value: 0.9999949198119868
+unable to concentrate:
+  drift_status: false
+  p_value: 1.0
+unconscious state:
+  drift_status: false
+  p_value: 1.0
+uncoordination:
+  drift_status: false
+  p_value: 1.0
+underweight:
+  drift_status: false
+  p_value: 1.0
+unhappy:
+  drift_status: false
+  p_value: 1.0
+unresponsiveness:
+  drift_status: false
+  p_value: 1.0
+unsteady gait:
+  drift_status: false
+  p_value: 1.0
+unwell:
+  drift_status: false
+  p_value: 1.0
+urge incontinence:
+  drift_status: false
+  p_value: 0.9809196004391012
+"urgency of\_micturition":
+  drift_status: false
+  p_value: 1.0
+urinary hesitation:
+  drift_status: false
+  p_value: 1.0
+urinoma:
+  drift_status: false
+  p_value: 1.0
+verbal auditory hallucinations:
+  drift_status: false
+  p_value: 1.0
+verbally abusive behavior:
+  drift_status: false
+  p_value: 1.0
+vertigo:
+  drift_status: false
+  p_value: 1.0
+vision blurred:
+  drift_status: false
+  p_value: 0.9999999836908525
+vomiting:
+  drift_status: false
+  p_value: 1.0
+weepiness:
+  drift_status: false
+  p_value: 1.0
+weight gain:
+  drift_status: false
+  p_value: 1.0
+welt:
+  drift_status: false
+  p_value: 1.0
+wheelchair bound:
+  drift_status: false
+  p_value: 1.0
+wheezing:
+  drift_status: false
+  p_value: 1.0
+withdraw:
+  drift_status: false
+  p_value: 1.0
+worry:
+  drift_status: false
+  p_value: 1.0
+yellow sputum:
+  drift_status: false
+  p_value: 1.0

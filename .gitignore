@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+*.log
+Disease-Prediction-from-Symptoms-master/__pycache__/
+__pycache__/

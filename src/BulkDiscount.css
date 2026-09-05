@@ -1,0 +1,220 @@
+.bulk-discount-container {
+  padding: 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.discount-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.discount-header h1 {
+  color: #0F4454;
+  margin-bottom: 10px;
+}
+
+.discount-header p {
+  color: #718096;
+}
+
+.success-message {
+  background: #48bb78;
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  text-align: center;
+  animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.discount-content {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 30px;
+}
+
+.discount-form-section {
+  background: white;
+  border-radius: 12px;
+  padding: 25px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  height: fit-content;
+}
+
+.discount-form-section h2 {
+  margin-bottom: 20px;
+  color: #2d3748;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 500;
+  color: #2d3748;
+}
+
+.radio-group {
+  display: flex;
+  gap: 20px;
+}
+
+.radio-group label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  font-weight: normal;
+}
+
+.discount-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.discount-input:focus {
+  outline: none;
+  border-color: #0ea5e9;
+}
+
+.apply-discount-btn {
+  width: 100%;
+  background: #0ea5e9;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 10px;
+}
+
+.apply-discount-btn:hover {
+  background: #0284c7;
+  transform: translateY(-2px);
+}
+
+.medicines-section {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.medicines-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.medicines-header h2 {
+  margin: 0;
+  color: #2d3748;
+}
+
+.select-all-btn {
+  background: #e2e8f0;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.select-all-btn:hover {
+  background: #cbd5e0;
+}
+
+.medicines-list {
+  overflow-x: auto;
+}
+
+.medicines-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.medicines-table th,
+.medicines-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.medicines-table th {
+  background: #f7fafd;
+  font-weight: 600;
+  color: #2d3748;
+}
+
+.medicines-table tr.selected {
+  background: #f0f9ff;
+}
+
+.medicine-name {
+  font-weight: 500;
+}
+
+.discount-badge {
+  background: #f59e0b;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+}
+
+.discounted-price {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.old-price {
+  text-decoration: line-through;
+  color: #ef4444;
+  font-size: 12px;
+}
+
+.new-price {
+  color: #48bb78;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+@media (max-width: 968px) {
+  .discount-content {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .medicines-table {
+    font-size: 12px;
+  }
+  
+  .medicines-table th,
+  .medicines-table td {
+    padding: 8px;
+  }
+}

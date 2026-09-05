@@ -1,0 +1,391 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f6fa;
+  overflow-x: hidden; /* prevent horizontal scroll */
+}
+
+.wrapper {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* Sidebar - Make it Fixed */
+.sidebar {
+  width: 220px;
+  background: #111827;
+  color: white;
+  padding: 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  overflow-y: auto;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Main Content - Reduced top padding */
+.main {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+  padding-top: 20px; /* Reduced from 80px to 20px */
+  margin-left: 260px;
+  width: calc(100% - 260px);
+}
+
+.logo {
+  margin-bottom: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #374151;
+}
+
+.section {
+  font-size: 11px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #9ca3af;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+/* First section (MAIN MENU) - Add top margin to separate from logo */
+.section:first-of-type {
+  margin-top: 0;
+}
+
+.sidebar button {
+  display: block;
+  width: 100%;
+  margin: 5px 0;
+  padding: 10px;
+  background: none;
+  border: none;
+  color: white;
+  text-align: left;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: 0.3s;
+  font-size: 14px;
+}
+
+.sidebar button:hover {
+  background: #1f2937;
+}
+
+.sidebar .active {
+  background: #2563eb;
+}
+
+/* Profile Card in Sidebar - Push to bottom */
+.profile-card {
+  margin-top: auto;
+  margin-bottom: 20px;
+  padding: 15px;
+  background: #1f2937;
+  border-radius: 8px;
+  text-align: center;
+  border: 1px solid #374151;
+}
+
+.profile-card p {
+  margin: 0 0 10px 0;
+  font-size: 12px;
+  color: #9ca3af;
+}
+
+.profile-card button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 8px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 12px;
+  text-align: center;
+  width: 100%;
+  transition: background 0.2s;
+}
+
+.profile-card button:hover {
+  background: #1d4ed8;
+}
+
+/* Menu container to handle scrolling */
+.menu-container {
+  flex: 1;
+}
+
+/* Topbar - Reduced margin */
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+  margin-top: 0; /* Added to remove top margin */
+}
+
+.search {
+  padding: 8px;
+  width: 200px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background: white;
+}
+
+/* Fixed Admin Logo */
+.fixed-admin {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  background: white;
+  padding: 8px 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.fixed-admin:hover {
+  background: #f0f0f0;
+  transform: scale(1.02);
+}
+
+.fixed-admin img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.fixed-admin span {
+  font-weight: 500;
+  color: #333;
+}
+
+/* Logout Button */
+.logout-btn {
+  background: #ef4444;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 12px;
+  margin-left: 10px;
+  transition: background 0.2s;
+}
+
+.logout-btn:hover {
+  background: #dc2626;
+}
+
+/* Welcome Text - Reduced top margin */
+.welcome {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #333;
+}
+
+/* Cards */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+  margin: 20px 0;
+  position: relative;
+  z-index: 1;
+}
+
+.card {
+  padding: 25px 20px !important;
+  border-radius: 12px !important;
+  color: white !important;
+  min-width: 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+  transition: transform 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2) !important;
+}
+
+.card p {
+  margin: 0 0 12px 0;
+  font-size: 14px;
+  opacity: 0.9;
+  font-weight: 500;
+  color: white !important;
+}
+
+.card h2 {
+  margin: 0;
+  font-size: 32px;
+  font-weight: bold;
+  color: white !important;
+}
+
+.green {
+  background: #10b981 !important;
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%) !important;
+  border-left: 4px solid #fff;
+}
+
+.teal {
+  background: #06b6d4 !important;
+  background: linear-gradient(135deg, #06b6d4 0%, #0891b2 100%) !important;
+  border-left: 4px solid #fff;
+}
+
+.pink {
+  background: #ec4899 !important;
+  background: linear-gradient(135deg, #ec4899 0%, #db2777 100%) !important;
+  border-left: 4px solid #fff;
+}
+
+.purple {
+  background: #8b5cf6 !important;
+  background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%) !important;
+  border-left: 4px solid #fff;
+}
+
+/* Graph Section */
+.graph-section {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.graph-card {
+  flex: 1 1 400px;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  min-width: 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.graph-card h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #333;
+  font-size: 18px;
+}
+
+/* Scrollable charts and tables */
+.scroll-container {
+  width: 100%;
+  overflow-x: auto;
+  margin-top: 10px;
+}
+
+.scroll-container > div {
+  min-width: 400px;
+}
+
+.scroll-container::-webkit-scrollbar {
+  height: 6px;
+}
+
+.scroll-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+.scroll-container::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 10px;
+}
+
+.scroll-container::-webkit-scrollbar-thumb:hover {
+  background: #999;
+}
+
+/* Table */
+.table-card {
+  margin-top: 20px;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  overflow-x: auto;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.table-card h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #333;
+  font-size: 18px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 600px;
+}
+
+th,
+td {
+  padding: 12px;
+  border-bottom: 1px solid #e5e7eb;
+  text-align: left;
+}
+
+th {
+  background: #f9fafb;
+  font-weight: 600;
+  color: #374151;
+}
+
+td {
+  color: #6b7280;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 180px;
+  }
+  
+  .main {
+    margin-left: 200px;
+    width: calc(100% - 200px);
+    padding-top: 20px;
+  }
+  
+  .cards {
+    grid-template-columns: 1fr;
+  }
+  
+  .card h2 {
+    font-size: 28px;
+  }
+  
+  .fixed-admin {
+    padding: 5px 10px;
+    top: 10px;
+    right: 10px;
+  }
+  
+  .fixed-admin span {
+    font-size: 12px;
+  }
+  
+  .logout-btn {
+    padding: 4px 8px;
+    font-size: 10px;
+  }
+}
